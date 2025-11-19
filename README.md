@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="<img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Photo" width="150" />" alt="Profile Photo" width="150" style="border-radius: 50%; border: 2px solid #0ea5e9;" />
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Photo" width="150" />
 </div>
 
 <h1 align="center" style="color:#0ea5e9;">Ibrahim Akintunde Akinyera</h1>
