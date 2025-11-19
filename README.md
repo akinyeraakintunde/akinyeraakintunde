@@ -1,8 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Photo" width="150" />
-</div>
-
+  
 <h1 align="center" style="color:#0ea5e9;">Ibrahim Akintunde Akinyera</h1>
 <h3 align="center" style="color:#94a3b8;">Founder · Machine Learning Engineer · Cybersecurity & Risk Analytics</h3>
 
