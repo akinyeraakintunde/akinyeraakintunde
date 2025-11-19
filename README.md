@@ -1,112 +1,130 @@
-<h1 align="center">Ibrahim Akintunde Akinyera</h1>
-<h3 align="center">Founder · Machine Learning Engineer · Cybersecurity & Risk Analytics</h3>
+<!-- HEADER -->
+<div align="center">
+  <img src="<img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Photo" width="150" />" alt="Profile Photo" width="150" style="border-radius: 50%; border: 2px solid #0ea5e9;" />
+</div>
+
+<h1 align="center" style="color:#0ea5e9;">Ibrahim Akintunde Akinyera</h1>
+<h3 align="center" style="color:#94a3b8;">Founder · Machine Learning Engineer · Cybersecurity & Risk Analytics</h3>
 
 <p align="center">
-  <a href="https://akinyeraakintunde.github.io/Ibrahim-Akinyera" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ibrahimakinyera" target="_blank">LinkedIn</a> •
+  <a href="https://akinyeraakintunde.github.io/Ibrahim-Akinyera" target="_blank">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/ibrahimakinyera" target="_blank">LinkedIn</a> • 
   <a href="mailto:akinyeraakintunde@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akinyeraakintunde&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akinyeraakintunde&label=Profile%20Views&color=0ea5e9&style=flat-square" />
 </p>
 
 ---
 
-## About Me
+# About Me
 
-I am a Machine Learning Engineer, Cybersecurity & Enterprise Risk Analyst, and Founder of NxtAbroad Limited, working across:
+I am a Machine Learning Engineer, Cybersecurity & Enterprise Risk Analyst, and Founder of **NxtAbroad Limited**, working across:
 
 - Artificial Intelligence & Machine Learning  
-- Cybersecurity & Risk Intelligence  
-- Python-based system architecture  
-- EdTech & Immigration Automation  
-- Enterprise controls, KRIs and audit support  
+- Cybersecurity & Enterprise Risk Intelligence  
+- Python System Architecture  
+- EdTech & Immigration Workflow Automation  
+- Governance, KRIs, and Audit Support  
 
-I build systems that combine AI, automation and risk analytics to solve real-world problems at scale.
+My work spans AI systems, cybersecurity engineering, and digital transformation across UK and African markets.  
+I build solutions that combine **automation, intelligence, and risk control** to solve operational challenges at scale.
 
 ---
 
-## Technical Expertise
+# Core Competencies
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0099ff?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-ff4757?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Risk%20Analytics-22c55e?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=000" />
-  <img src="https://img.shields.io/badge/NLP-BERT%20Models-blueviolet?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-0ea5e9?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-334155?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Enterprise_Risk-22c55e?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FACC15?style=for-the-badge&logo=python&logoColor=000"/>
+  <img src="https://img.shields.io/badge/NLP-BERT_Models-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
-## Featured Projects
+# Featured Work (Tech Nation Evidence)
 
 ### NxtAbroad AI – EdTech & Immigration Intelligence  
-AI-powered platform for eligibility screening, visa readiness scoring and workflow automation.  
+AI-driven platform powering student eligibility, visa readiness scoring, and workflow automation.  
 Repository: https://github.com/akinyeraakintunde/nxtabroad-visa-readiness-ml  
-Evidence 1 – Mandatory Criterion
+Category: **Mandatory Criterion – Innovation**
 
 ---
 
 ### Enterprise Risk Intelligence Engine – AI + Cybersecurity  
-AI system for anomaly detection, KRI scoring and automated risk reporting.  
-Developed with guidance from a Senior Technology Risk Analyst at CME Group.  
+Risk analysis system using anomaly detection, weighted KRI scoring, and automated reports.  
+Developed with guidance from a **Senior Technology Risk Analyst, CME Group**.  
 Repository: https://github.com/akinyeraakintunde/enterprise-risk-intelligence-engine  
-Evidence 4 – Technical Expertise
+Category: **Technical Expertise**
 
 ---
 
 ### Twitter Topic Classifier – Deep Learning NLP  
-Transformer-based classifier (BERT) built during my MSc Data Science dissertation.  
+BERT-based classifier for thematic analysis of Twitter content, built for my MSc Data Science dissertation.  
 Repository: https://github.com/akinyeraakintunde/Twitter-Topic-Classifier-with-ML  
-Evidence 3 – Technical Excellence
+Category: **Technical Excellence**
 
 ---
 
 ### Cyber Essentials PLUS – Connected Health (UK)  
-Technical contribution to achieving the organisation’s first Cyber Essentials PLUS certification.  
+Technical contribution to achieving Cyber Essentials PLUS certification.  
 Repository: https://github.com/akinyeraakintunde/connected-health-cyber-essentials-plus  
-Evidence 5 – Recognition & Impact
+Category: **Recognition**
 
 ---
 
-## Core Technologies
+# Technology Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-BERT-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0ea5e9?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Audit_and_KRIs-334155?style=flat-square" />
 </p>
 
 ---
 
-## GitHub Statistics
+# GitHub Analytics (Dark Mode)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akinyeraakintunde&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akinyeraakintunde&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akinyeraakintunde&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akinyeraakintunde&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinyeraakintunde&layout=compact&theme=default" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinyeraakintunde&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## Founder – NxtAbroad Limited
+# Recent Activity
 
-I lead the technical and operational direction of NxtAbroad Limited, an EdTech & immigration consultancy operating across Nigeria and the UK.
+> Automated summary of your latest GitHub contributions.
 
-I designed and built the internal **AI eligibility and visa readiness engine** used daily by our processing team to support international students.
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akinyeraakintunde&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/akinyeraakintunde/akinyeraakintunde/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## Contact
+# Founder – NxtAbroad Limited
+
+I lead the technical and operational strategy behind **NxtAbroad Limited**, an EdTech and immigration consultancy.  
+I built the internal **AI-powered eligibility and visa readiness engine**, now used across multiple destinations to support students.
+
+---
+
+# Contact
 
 Email: **akinyeraakintunde@gmail.com**  
 Portfolio: **https://akinyeraakintunde.github.io/Ibrahim-Akinyera**  
@@ -114,6 +132,6 @@ LinkedIn: **https://www.linkedin.com/in/ibrahimakinyera**
 
 ---
 
-<p align="center">
-  <em>Open to collaborations in AI, cybersecurity, automation, and enterprise risk systems.</em>
+<p align="center" style="color:#64748b;">
+  Open to collaborations in AI, cybersecurity, automation and enterprise risk systems.
 </p>
