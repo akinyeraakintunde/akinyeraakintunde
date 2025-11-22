@@ -60,8 +60,8 @@ Category: **Technical Expertise**
 
 ---
 
-### Twitter Topic Classifier – Deep Learning NLP  
-BERT-based classifier for thematic analysis of Twitter content, built for my MSc Data Science dissertation.  
+### Twitter Topic Classifier – NLP & Machine Learning 
+NLP-based Machine Learning pipeline for thematic analysis of Twitter content using TF-IDF and classical ML classifiers 9SVM, Logistic Regression, Naive Bayes). built as part of my MSc Data Science dissertation.  
 Repository: https://github.com/akinyeraakintunde/Twitter-Topic-Classifier-with-ML  
 Category: **Technical Excellence**
 
